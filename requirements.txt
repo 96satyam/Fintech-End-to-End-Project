@@ -4,4 +4,5 @@ scikit-learn
 matplotlib
 seaborn
 ipykernel
--e .
+dill
+# -e .
